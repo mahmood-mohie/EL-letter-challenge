@@ -17,7 +17,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mahmood-mohie.github.io/EL-letter-challenge/)
+- Live Site URL: (https://mahmood-mohie.github.io/EL-letter-challenge/)
 
 ### What I learned
 - Css Grid
@@ -30,5 +30,5 @@ I wanna pay more focus on animation and css units
 
 - Website - [Mahmoud Mohie](https://www.your-site.com)
 - Frontend Mentor - [@mahmoudmohie2](https://www.frontendmentor.io/profile/mahmood-mohie)
-- Twitter - [@yourusername](https://twitter.com/mahmoud_coder)
+- Twitter - [@mahmoud_coder](https://twitter.com/mahmoud_coder)
 - codepen - [@mahmood-mohie](https://codepen.io/mahmood-mohie)
