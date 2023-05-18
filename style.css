@@ -4,7 +4,9 @@
     padding: 0;
 }
 body {
-    background-image: linear-gradient(to right, #dd5e89 , #f7bb97);
+    background:url(/slanted-gradient.svg) ;
+    background-size: contain;
+    background-repeat: repeat-y;
 }
 .container {
     display: grid;
@@ -39,7 +41,7 @@ body {
     animation-delay: 3.1s;
 }
 .item {
-    background-color: #282A35;
+    background-color: #b75f3fb3;
 }
 .item1 {
     grid-column: 1 / 3;
