@@ -4,7 +4,7 @@
     padding: 0;
 }
 body {
-    background:url(/slanted-gradient.svg) ;
+    background:url(slanted-gradient.svg) ;
     background-size: contain;
     background-repeat: repeat-y;
 }
