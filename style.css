@@ -5,8 +5,7 @@
 }
 body {
     background:url(slanted-gradient.svg) ;
-    background-size: contain;
-    background-repeat: repeat-y;
+    background-size: cover;
 }
 .container {
     display: grid;
